@@ -1,0 +1,9 @@
+Amazon Prime Video-Tv and Movies Analysis
+Objective
+
+This project analyse the top 10 tv shows ratings,genres,total show count by country and tv shows and movies comparison.
+
+The study highlights
+
+From the amazon prime video dashboard we can see that majority of the people are watching movies while comparing it with
+the tv shows.i.e,80.82% are preferring movies and 19.18% are watching tv shows
