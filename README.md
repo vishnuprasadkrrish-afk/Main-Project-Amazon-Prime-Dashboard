@@ -1,4 +1,4 @@
-Amazon Prime Video-Tv and Movies Analysis
+Amazon Prime Video-Tv shows and Movies Analysis
 Objective
 
 This project analyse the top 10 tv shows ratings,genres,total show count by country and tv shows and movies comparison.
